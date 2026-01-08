@@ -27,6 +27,7 @@ The dataset contains the following six defect classes:
 - short
 - spur
 - spurious_copper
+  
   <img width="700" height="277" alt="Screenshot 2026-01-08 030925" src="https://github.com/user-attachments/assets/9bb5cbe0-a0b0-4f72-be27-b614cfb2648b" />
 
 
